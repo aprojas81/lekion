@@ -1,3 +1,3 @@
 # lekion
-Practicando programación web.
+Practicando programación web. Autodidacta. 
 Kael (11 años)
